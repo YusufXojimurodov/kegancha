@@ -1,0 +1,181 @@
+.Father {
+    display: flex;
+    justify-content: end;
+    gap: 30px;
+}
+
+.son {
+    padding: 10px;
+}
+.Father2{
+    display: flex;
+    gap: 150px;
+    margin-top: 50px;
+    
+}
+.virtual{
+    font-size: 60px;
+}
+.yozuvv{
+    font-size: 20px;
+}
+.father{
+    width: 500px;
+    margin-left: 70px;
+}
+button{
+    width: 197.75px;
+    height: 49.12px;
+    background-color: #458FF6;
+    border-radius: 55px;
+    margin-left: 70px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+}
+.yozuv{
+    font-size: 20px;
+    width: 952px;
+    margin-left: 256px;
+}
+.ota{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 60px;
+}
+.box{
+    width: 380px;
+    height: 380px;
+    border-radius: 20px;
+    background-color: #E7E7E7;
+}
+.kok{
+    width: 380px;
+    height: 380px;
+    border-radius: 20px;
+    background-color: #5A98F2;
+}
+img{
+    padding: 50px;
+}
+.doctor{
+    padding-left: 50px;
+    font-size: 24px;
+    color: white;
+}
+.pp{
+    font-size: 16px;
+    color: white;
+    width: 285px;
+    padding-left: 30px;
+}
+.ppp{
+    font-size: 16px;
+    color: #7D7987;
+    width: 285px;
+    padding-left: 30px;   
+}
+.h33{
+    padding-left: 50px;
+    font-size: 24px;
+    color: black;  
+}
+.Learn{
+    width: 120px;
+    height: 23.31px;
+    margin-left: 639px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    color:#458FF6 ;
+    border: #458FF6 solid 2px;
+    border-radius: 55px;
+}
+h4{
+    font-size: 48px;
+    display: flex;
+    justify-content: center;
+}
+.ada{
+    display: flex;
+    margin-left: 80px;
+  
+}
+h5{
+    font-size: 36px;
+    width: 434px;
+}
+.oxrgi{
+    font-size: 18px;
+    color: #7D7987;
+    width: 434px;
+    height: 120px;
+}
+.more{
+    width: 150px;
+    height: 23.31px;
+    margin-left: 900px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    color:#458FF6 ;
+    border: #458FF6 solid 2px;
+    border-radius: 55px;
+}
+.alohida{
+    margin-top: 200px;
+    width: 100%;
+    height: 432px;
+    display: flex;
+    gap: 20px;
+    background-color: #5A98F2;
+}
+.T{
+    width: 40px;
+    height: 41px;
+    background-color: white;
+    margin-left: 165px;
+    margin-top: 159px;
+    border-radius: 50%;
+    font-size: 24px;
+    color: #458FF6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font: bold;
+}
+.trafalgar{
+    font-size: 24px;
+    margin-left: 10px;
+    color: #ffff;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 164px;
+}
+.provides{
+    font-size: 18px;
+    width: 386px;
+    color: white;
+}
+ul{
+    list-style: none;
+    width: 97px;
+    height: 101px;
+    color: white;
+    margin-top: 159px;
+    font-size: 20px;
+}
+.ul{
+    list-style: none;
+    width: 200px;
+    height: 101px;
+    color: white;
+    margin-top: 159px;
+    font-size: 20px;
+}
